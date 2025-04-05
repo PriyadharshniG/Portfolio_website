@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio_website/static/css/main.c7f23b70.css",
+    "main.js": "/Portfolio_website/static/js/main.d18966d6.js",
+    "static/js/415.fc063c41.chunk.js": "/Portfolio_website/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/Portfolio_website/static/js/787.f6e65957.chunk.js",
+    "static/media/avatar.png": "/Portfolio_website/static/media/avatar.064a651c851a2579555e.png",
+    "static/media/about.png": "/Portfolio_website/static/media/about.6f709758d795494c8058.png",
+    "static/media/about.jpg": "/Portfolio_website/static/media/about.ad043208b4e8ca2cd975.jpg",
+    "static/media/hrms.jpg": "/Portfolio_website/static/media/hrms.bbbd74aed9753fa977aa.jpg",
+    "static/media/home-bg.jpg": "/Portfolio_website/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/stress.jpg": "/Portfolio_website/static/media/stress.0bffb9f91b9235f92ccb.jpg",
+    "static/media/attendance.jpg": "/Portfolio_website/static/media/attendance.afc70d1d35f0512f342a.jpg",
+    "static/media/diabetic.jpg": "/Portfolio_website/static/media/diabetic.553b8f556e4033c6e495.jpg",
+    "static/media/pre.svg": "/Portfolio_website/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio_website/index.html",
+    "main.c7f23b70.css.map": "/Portfolio_website/static/css/main.c7f23b70.css.map",
+    "main.d18966d6.js.map": "/Portfolio_website/static/js/main.d18966d6.js.map",
+    "415.fc063c41.chunk.js.map": "/Portfolio_website/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/Portfolio_website/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7f23b70.css",
+    "static/js/main.d18966d6.js"
+  ]
+}
